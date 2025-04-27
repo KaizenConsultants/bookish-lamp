@@ -1,2 +1,2 @@
 # bookish-lamp
-Learning all about content design on GitHub
+This repository is for practicing the GitHub Flow.
